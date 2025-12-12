@@ -28,4 +28,3 @@ position = Vector2(356, -948)
 position = Vector2(819, -562)
 
 [node name="Circuit" parent="." instance=ExtResource("4_sepuf")]
-z_index = -1
